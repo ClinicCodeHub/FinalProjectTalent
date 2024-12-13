@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" LPaket Keluarga Seru Tanpa Mainan",
+        "price": 75.000,
+        "image": "image/1.png"
+    },
+    {
+        "id": 2,
+        "name":" Paket Keluarga Seru Dengan Mainan",
+        "price": 94.000,
+        "image": "image/2.png"
+    },
+    {
+        "id": 3,
+        "name":" PaMer 5 ",
+        "price": 132.000,
+        "image": "image/3.png"
+    },
+    {
+        "id": 4,
+        "name":" PaMer 7",
+        "price": 185.000,
+        "image": "image/4.png"
+    },
+    {
+        "id": 5,
+        "name":" Paket Berlima",
+        "price": 135.000,
+        "image": "image/5.png"
+    },
+    {
+        "id": 6,
+        "name":" Paket Ber 4",
+        "price": 90.000,
+        "image": "image/6.png"
+    },
+    {
+        "id": 7,
+        "name":" Happy Meal® McNuggets® 4Pcs",
+        "price": 45.000,
+        "image": "image/7.png"
+    },
+    {
+        "id": 8,
+        "name":" Happy Meal® Ayam",
+        "price": 45.000,
+        "image": "image/8.png"
+    }
+
+]
